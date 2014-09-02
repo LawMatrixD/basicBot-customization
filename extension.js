@@ -45,10 +45,10 @@
         //Change the bots default settings
 
         bot.settings = {
-            botName: "basicBot",
+            botName: "FoxyBot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-            maximumAfk: 120,
+            maximumAfk: 90,
             afkRemoval: true,
             maximumDc: 60,
             bouncerPlus: true,
@@ -76,7 +76,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "Temporary Message of the Day",
+            motd: "We'll have an opening event on the 27th of september. Please check "LINK" for mor informations!",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
