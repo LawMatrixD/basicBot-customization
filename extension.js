@@ -76,7 +76,7 @@
             afkRankCheck: "ambassador",
             motdEnabled: false,
             motdInterval: 5,
-            motd: "We'll have an opening event on the 27th of september. Please check "LINK" for mor informations!",
+            motd: "We'll have an opening event on the 27th of september. Please check \"LINK\" for more informations!",
             filterChat: true,
             etaRestriction: false,
             welcome: true,
